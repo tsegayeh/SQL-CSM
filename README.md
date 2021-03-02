@@ -10,11 +10,11 @@ Manually managed Child Sponsorship programs are prone to error and delays. As a 
 
 <b>3.	Business Questions</b> <br /> 
 The database must answer key business questions such as:<br />
-a) What is the status of the sponsored child’s health and education?<br />
-b) Who are your sponsors/donors? What do they donate and how much?<br />
-c) How is the organization’s performance in fundraising?<br />
-d) What are the program goals and activities?<br />
-e) How effective and efficient is the utilization of the funds?<br />
+- a) What is the status of the sponsored child’s health and education?<br />
+- b) Who are your sponsors/donors? What do they donate and how much?<br />
+- c) How is the organization’s performance in fundraising?<br />
+- d) What are the program goals and activities?<br />
+- e) How effective and efficient is the utilization of the funds?<br />
 
 <b>4.	Design Steps</b> <br /> The database is designed in 5 steps, as follows:<br />
 
