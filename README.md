@@ -1,7 +1,6 @@
-# SQL4CSM
-
-<h3> Project: 	SQL Server Database for Child Sponsorship Management (CSM)</h3> 
-<h4> Software used: 	SQL Server 2017 Developer Edition. </h4>
+## SQL4CSM
+### Project: 	SQL Server Database for Child Sponsorship Management (CSM)
+Software used: 	SQL Server 2017 Developer Edition.<br />
 
 <b>1.	Motivation</b> <br />
 It happened that I am transitioning from a non-profit program arena to the data science world. I spent a good amount of my career life in relief and development programs management of which Child Sponsorship Program was a major component. I experienced firsthand the pain due to data errors and delays in manually managed programs. I, Therefore, seek the joy of automation for everyone involved in such programs.<br />
