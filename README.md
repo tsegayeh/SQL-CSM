@@ -28,5 +28,5 @@ The list of tables is found in Appendix 2. The database diagram is in Appendix 3
 - <b>Step 4. Inserting Data </b> <br /> Sample data were inserted into the database tables for testing purposes. <br />
 The complete script for inserting data is presented in Appendix 4. <br />
 
-- <b>Step 5. Querying</b> <br /> Translating Business Questions into TSQL queries: At this stage, business questions are translated into T-SQL queries. <br />
+- <b>Step 5. Querying</b> <br /> Translating Business Questions into T-SQL queries: At this stage, business questions are translated into T-SQL queries. <br />
 For the list of queries, see Appendix 5.
