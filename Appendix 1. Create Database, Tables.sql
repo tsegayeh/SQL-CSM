@@ -12,12 +12,14 @@ CREATE TABLE [dbo].[tbl_01ChildHealthStatus](
 	[HStatus] [nvarchar](30) NOT NULL
 )
 GO
+
 CREATE TABLE [dbo].[tbl_02ChildLivesWith](
 	[LivesWithID] [int] Primary Key IDENTITY(1,1) NOT NULL,
 	[LivesWith] [nvarchar](30) NOT NULL,
 	[DateRecored] [date] NULL
 ) 
 GO
+
 CREATE TABLE [dbo].[tbl_03Woreda](
 	[WoredaID] [int] Primary Key IDENTITY(1,1) NOT NULL,
 	[WoredaName] [nvarchar](30) NOT NULL,
@@ -131,8 +133,8 @@ CREATE TABLE [dbo].[tbl_09A_Child](
 	[Age] [int] NOT NULL,
 	[DateRecorded] [date] NULL
 ) 
-
 GO
+
 CREATE TABLE [dbo].[tbl_09B_ChildStatus](
 	[ChildID] [int] NOT NULL,
 	[SchGrade] [int] NOT NULL,
@@ -222,7 +224,7 @@ CREATE TABLE [dbo].[tbl_16PledgeGrants_Cash](
 	[PeriodEnding] [int] NOT NULL,
 	[PledgeGrantAmount] [money] NOT NULL,
 	[DateRecorded] [date] NULL
-) ON [PRIMARY]
+)  
 GO
 
 CREATE TABLE [dbo].[tbl_17PledgeGrants_InKind](
@@ -296,7 +298,7 @@ GO
 CREATE TABLE [dbo].[tbl_25Budget](
 	[BudgetItemID] [int] Primary Key IDENTITY(1,1) NOT NULL,
 	[ActivityID] [int] NOT NULL,
-	[DateRecorded] [date] NULL,
+	[DateRecorded] [date] NOT NULL,
 	[Y1_Jan] [money] NOT NULL,
 	[Y1_Feb] [money] NOT NULL,
 	[Y1_Mar] [money] NOT NULL,
