@@ -7,7 +7,7 @@
 USE [CSMdb]
 GO
 
---		a) What is the status of the sponsored child’s health and education?
+-a) What is the status of the sponsored childâ€™s health and education?
 --01. Child Status											
 	Execute [dbo].[sp_01GetChildStatus] 2 -- (e.g. for Child ID = 2)
 
@@ -15,7 +15,7 @@ GO
 	Execute [dbo].[sp_02GetChildrenStatus] -- (for all Children)
 	
 ---------------------------------------------------------------------
--- b) Who are your sponsors/donors? What do they donate and how much?
+-b) Who are your sponsors/donors? What do they donate and how much?
 --03. Funding: Number of Donors and Donations
 Execute [dbo].[sp_03GetNumDonorsAndDonations]
 
@@ -23,7 +23,7 @@ Execute [dbo].[sp_03GetNumDonorsAndDonations]
 Execute [dbo].[sp_04A_GetTotalReceipts]
 
 ------------------------------------------------------------- 
---   c) How is the organization’s performance in fundraising?
+-c) How is the organizationâ€™s performance in fundraising?
 --04b. Funding: Pledges total
 Execute [dbo].[sp_04B_GetTotalPledges]
 
