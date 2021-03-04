@@ -22,7 +22,7 @@ The database must answer key business questions such as:<br />
 
 - <b>Step 2. Logical Model </b> <br /> Identifying Attributes: At this stage, attributes were identified. The attributes within each entity were then marked as Key Attribute or Non-Key Attribute.<br />
 
-- <b>Step 3. Physical Mode </b> <br /> Creating the database, tables, and other database objects: The CSM database and its tables were created using SQL Server software. Data types and the necessary constraints were also added to the columns as appropriate. The complete script for creating the database objects is presented in [Appendix 1](https://github.com/tsegayeh/SQL4CSM/blob/main/A_CreateDatabaseAndTables.sql).
+- <b>Step 3. Physical Mode </b> <br /> Creating the database, tables, and other database objects: The CSM database and its tables were created using SQL Server software. Data types and the necessary constraints were also added to the columns as appropriate. The complete script for creating the database objects is presented in *[Appendix 1](https://github.com/tsegayeh/SQL4CSM/blob/main/A_CreateDatabaseAndTables.sql)*.
 The list of tables is found in Appendix 2. The database diagram is in <b>[Appendix 3](https://github.com/tsegayeh/SQL4CSM/blob/main/B_Database%20Diagram.PNG)</b>.<br />
 
 - <b>Step 4. Inserting Data </b> <br /> Sample data were inserted into the database tables for testing purposes. <br />
