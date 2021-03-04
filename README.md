@@ -29,4 +29,4 @@ The database diagram is in <b>*[Appendix 2](https://github.com/tsegayeh/SQL4CSM/
 The complete script for inserting data is presented in <b>*[Appendix 3](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%203.%20Inserting%20Sample%20Data.sql)*</b>. <br />
 
 - <b>Step 5. Querying</b> <br /> Translating Business Questions into T-SQL queries: The business questions are translated into T-SQL queries. <br />
-For the script of the queries, see <b>*[Appendix 4](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%204.%20Developing%20Queries.sql)*</b>. A list of the Stored Procedures is presented in <b>*[Appendix 5](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%205.%20Answering%20Business%20Questions.sql)</b>*
+For the script of the queries, see <b>*[Appendix 4](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%204.%20Developing%20Queries.sql)*</b>. A list of Stored Procedures is presented in <b>*[Appendix 5](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%205.%20Answering%20Business%20Questions.sql)</b>*
