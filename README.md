@@ -26,7 +26,7 @@ The database must answer key business questions such as:<br />
 The database diagram is in <b>[Appendix 2](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%202.%20Database%20Diagram.PNG)</b>.<br />
 
 - <b>Step 4. Inserting Data </b> <br /> Sample data were inserted into the database tables for testing purposes. <br />
-The complete script for inserting data is presented in <b>[Appendix 4](https://github.com/tsegayeh/SQL4CSM/blob/main/C_InsertSampleData.sql)</b>. <br />
+The complete script for inserting data is presented in <b>[Appendix 3](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%203.%20Inserting%20Sample%20Data.sql)</b>. <br />
 
 - <b>Step 5. Querying</b> <br /> Translating Business Questions into T-SQL queries: At this stage, business questions are translated into T-SQL queries. <br />
 For the list of queries, see Appendix 5.
