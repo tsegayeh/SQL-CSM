@@ -1,10 +1,10 @@
 USE [master]
 GO
 
-CREATE DATABASE [CSMdbX5]
+CREATE DATABASE [CSMdb]
 GO
 
-USE [CSMdbX5]
+USE [CSMdb]
 GO
 
 CREATE TABLE [dbo].[tbl_01ChildHealthStatus](
