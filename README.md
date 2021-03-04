@@ -6,7 +6,7 @@ Software used: 	SQL Server 2017 Developer Edition.<br />
 As someone who transitioned from a humanitarian relef and development arena to the data world, I am trying to apply my passion for SQL database management to Child Sponsorship Management, which is a practice in many development programs. I used to experience pain due to manual management of data in such programs. Hence, my attempt to create a database that would serve as a basis for automation of data management in CSM systems.<br />
 
 <b>2.	Business requirement</b> <br /> 
-Manually managed Child Sponsorship programs are prone to error and delays. As a result, sponsors quit, and funding goes down. This database is designed with a CSM web application in mind that would put business information on fingertips of program staff and management, leading to increased donor satisfaction and funding. <br />
+Manually managed Child Sponsorship programs are prone to error and delays. As a result, sponsors may quit, and funding may go down. This database is designed with a CSM web application in mind that would put business information on fingertips of program staff and management, leading to increased donor satisfaction and funding. <br />
 
 <b>3.	Business Questions</b> <br /> 
 The database must answer key business questions such as:<br />
@@ -30,5 +30,3 @@ The complete script for inserting data is presented in <b>*[Appendix 3](https://
 
 - <b>Step 5. Querying</b> <br /> Translating Business Questions into T-SQL queries: The business questions are translated into T-SQL queries. <br />
 For the script of the queries, see <b>*[Appendix 4](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%204.%20Developing%20Queries.sql)*</b>. A list of Stored Procedures is presented in <b>*[Appendix 5](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%205.%20Answering%20Business%20Questions.sql)</b>*
-
-<b>Next Steps</b><br /> Sponsor update on the Child as well as the program community is crucial for Child Sponsorship programs. I look forward to adding a feature to this database with which monitoring of information delivery to the Sponsor is automated.
