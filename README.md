@@ -23,10 +23,10 @@ The database must answer key business questions such as:<br />
 - <b>Step 2. Logical Model </b> <br /> Identifying Attributes: At this stage, attributes were identified. The attributes within each entity were then marked as Key Attribute or Non-Key Attribute.<br />
 
 - <b>Step 3. Physical Mode </b> <br /> Creating the database, tables, and other database objects: The CSM database and its tables were created using SQL Server software. Data types and the necessary constraints were also added to the columns as appropriate. The complete script for creating the database objects is presented in <b>*[Appendix 1](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%201.%20Create%20Database%2C%20Tables.sql)*</b>.
-The database diagram is in <b>[Appendix 2](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%202.%20Database%20Diagram.PNG)</b>.<br />
+The database diagram is in <b>*[Appendix 2](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%202.%20Database%20Diagram.PNG)*</b>.<br />
 
 - <b>Step 4. Inserting Data </b> <br /> Sample data were inserted into the database tables for testing purposes. <br />
-The complete script for inserting data is presented in <b>[Appendix 3](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%203.%20Inserting%20Sample%20Data.sql)</b>. <br />
+The complete script for inserting data is presented in <b>*[Appendix 3](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%203.%20Inserting%20Sample%20Data.sql)*</b>. <br />
 
 - <b>Step 5. Querying</b> <br /> Translating Business Questions into T-SQL queries: At this stage, business questions are translated into T-SQL queries. <br />
-For the list of queries, see Appendix 5.
+For the script of the queries, see <b>*[Appendix 4](https://github.com/tsegayeh/SQL4CSM/blob/main/Appendix%204.%20Developing%20Queries.sql)*</b>.
