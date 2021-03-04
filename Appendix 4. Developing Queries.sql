@@ -1,10 +1,10 @@
 /* ----------------------------------------------------------------------------------------------------------
-					Querying with T-SQL 
+				Querying with T-SQL 
 			   Child Sponsorship Management
 
-	a) What is the status of the sponsored child’s health and education?
+	a) What is the status of the sponsored childâ€™s health and education?
 	b) Who are your sponsors/donors? What do they donate and how much?
-	c) How is the organization’s performance in fundraising?
+	c) How is the organizationâ€™s performance in fundraising?
 	d) What are the program goals and activities?
 	e) How effective and efficient is the utilization of the funds?
 */ 
@@ -13,7 +13,7 @@
 USE [CSMdb]
 GO
 
---		a) What is the status of the sponsored child’s health and education?
+--		a) What is the status of the sponsored childâ€™s health and education?
 --1. Child Status											
 Create PROCEDURE [dbo].[sp_01GetChildStatus]
 (@ChildID int)
@@ -27,7 +27,6 @@ AS
 		WHERE	cs.ChildID = @ChildID AND
 				cs.DateRecorded < '2021-01-01'
 		 
-
 		Select c.ChildID, c.FirstName, c.MiddleName, c.LastName, cs.SchGrade, cs.RankInCLass, cs.HstatusID
 		INTO #Status2
 		FROM tbl_09B_ChildStatus cs
@@ -143,7 +142,7 @@ AS
 	END
 GO
  
---   c) How is the organization’s performance in fundraising?
+--   c) How is the organizationâ€™s performance in fundraising?
 -- 04b. Funding: Pledges total
 Create PROCEDURE [dbo].[sp_04B_GetTotalPledges]
 AS  
