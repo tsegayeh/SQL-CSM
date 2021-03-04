@@ -57,6 +57,7 @@ Execute [dbo].[sp_12GetGoals]
 --13. Program Activities: Major activities
 Execute [dbo].[sp_13GetMajorActivities]
 
+--	e) How effective and efficient is the utilization of the funds? ------------------
 --14. Program Budget: Total
 Execute [dbo].[sp_14GetTotalBudget]
 
