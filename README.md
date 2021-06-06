@@ -3,7 +3,7 @@ SQL4CSM
 Software used: 	SQL Server 2017 Developer Edition.<br />
 
 <b>1.	Motivation</b> <br />
-As someone who transitioned from a humanitarian relef and development arena to the data world, I am trying to apply my passion for SQL database management to CSM, which is a practice in many development organizations. I used to feel the pain due to manual data management in such programs. Hence, my attempt to create a database that would help automation of data.<br />
+As a person transitioning from a humanitarian programs arena to the data world, I am trying to apply my passion for SQL database management to CSM, which is a practice in many organizations. I experienced first hand the pain of manual data management in such programs. Hence, my attempt to create a database that would help automate data processing and retrieval.<br />
 
 <b>2.	Business requirement</b> <br /> 
 Manually managed Child Sponsorship programs are prone to error and delays. As a result, sponsors may quit, and funding may go down. This database is designed with a CSM web application in mind that would put business information on fingertips of program staff and management, leading to increased donor satisfaction and funding. <br />
