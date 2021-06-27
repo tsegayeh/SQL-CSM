@@ -1,5 +1,5 @@
-# SQL Database Project
-## Project: 	SQL Server Database for Child Sponsorship Management (CSM)
+# SQL Server Project:
+## SQL Server Database for Child Sponsorship Management (CSM)
 Software used: 	SQL Server 2017 Developer Edition.<br />
 
 <b>1.	Motivation</b> <br />
